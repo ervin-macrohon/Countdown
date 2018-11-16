@@ -2,13 +2,18 @@
     "events": [
         {
           "title": "Demo a new app",
-          "date": "2020-03-29T13:45:18.000Z",
+          "date": "2020-03-29T21:00:18.000Z",
           "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a87"
         },
         {
           "title": "Go on a holiday",
-          "date": "2020-05-35T13:45:18.000Z",
+          "date": "2020-05-20T10:45:50.000Z",
           "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a88"
+        },
+        {
+          "title": "Vanessa's holiday",
+          "date": "2019-01-20T13:50:59.000Z",
+          "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a89"
         }
     ]
   }
